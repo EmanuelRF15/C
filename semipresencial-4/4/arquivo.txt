@@ -1,0 +1,2 @@
+NOME:joao NOTA:10
+NOME:jose NOTA:8
